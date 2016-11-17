@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Final_Project_batch1</string>
+    <string name="form1">Register</string>
+    <string name="form2">Menu</string>
+    <string name="form3">Food</string>
+    <string name="form4">Drink</string>
+    <string name="form5">Checkout</string>
+    <string name="exit">Exit</string>
+    <string name="counter">counter</string>
+    <string name="back">Back</string>
+    <string name="order">Order</string>
 </resources>

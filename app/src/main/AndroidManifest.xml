@@ -15,6 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/form2" />
+        <activity android:name=".MakananActivity"
+            android:label="@string/form3" />
+        <activity android:name=".MinumanActivity"
+            android:label="@string/form4" />
+        <activity android:name=".OrderActivity"
+            android:label="@string/form5" />
     </application>
 
 </manifest>
